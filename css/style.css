@@ -1,0 +1,60 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    line-height: 1.6em;
+    background: #660066;
+}
+
+#container {
+    width: 400px;
+    height: 20px;
+    margin: 100px auto;
+    background: white;
+    overflow: hidden;
+    padding: 30px;
+}
+
+.wrapper {
+    background: black;
+    width: 500px;
+    height: 460px;
+    margin: 40px auto;
+    border: 2px solid white;
+    padding: 10px;
+}
+
+.title {
+    padding: 40px 0 0 0;
+    margin-top: 30px;
+    color: #660066;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    margin: auto;
+}
+
+.clear {
+    text-decoration: none;
+    background: orangered;
+    color: white;
+    padding: 10px;
+}
+
+div.button a {
+    border: 1px solid white;
+    margin: auto;
+}
+
+.copyright {
+    color: white;
+    text-align: center;
+    position: relative;
+}
